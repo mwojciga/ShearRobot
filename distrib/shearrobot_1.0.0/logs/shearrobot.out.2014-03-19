@@ -1,0 +1,46 @@
+2014-03-19 21:05:54,020 | INFO | (OperationProcessor.java:83) | Found port: COM1
+2014-03-19 21:05:54,035 | INFO | (OperationProcessor.java:87) | COM1 is a serial port. Added.
+2014-03-19 21:05:54,035 | INFO | (OperationProcessor.java:83) | Found port: COM7
+2014-03-19 21:05:54,035 | INFO | (OperationProcessor.java:87) | COM7 is a serial port. Added.
+2014-03-19 21:05:54,035 | INFO | (OperationProcessor.java:83) | Found port: LPT1
+2014-03-19 21:05:56,063 | TRACE | (MainGUI.java:276) | [C]: mntmConnect
+2014-03-19 21:05:56,297 | INFO | (OperationProcessor.java:83) | Found port: COM1
+2014-03-19 21:05:56,297 | INFO | (OperationProcessor.java:87) | COM1 is a serial port. Added.
+2014-03-19 21:05:56,297 | INFO | (OperationProcessor.java:83) | Found port: COM7
+2014-03-19 21:05:56,297 | INFO | (OperationProcessor.java:87) | COM7 is a serial port. Added.
+2014-03-19 21:05:56,297 | INFO | (OperationProcessor.java:83) | Found port: LPT1
+2014-03-19 21:05:58,434 | INFO | (OperationProcessor.java:94) | Connecting to COM7
+2014-03-19 21:05:58,497 | INFO | (OperationProcessor.java:104) | Successfully connected to //./COM7
+2014-03-19 21:05:58,497 | INFO | (OperationProcessor.java:116) | Opening IOStream.
+2014-03-19 21:05:58,497 | INFO | (OperationProcessor.java:122) | IOStream successfully opened.
+2014-03-19 21:05:58,497 | INFO | (OperationProcessor.java:133) | Initializing listener.
+2014-03-19 21:06:01,852 | TRACE | (MainGUI.java:260) | [C]: mntmLoad
+2014-03-19 21:06:01,852 | DEBUG | (MainGUI.java:262) | There wasn't any route loaded before.
+2014-03-19 21:06:07,655 | INFO | (ActionProcessor.java:35) | Choosen route file: C:\Users\Wcg\Desktop\test.txt
+2014-03-19 21:06:13,926 | INFO | (OperationProcessor.java:220) | Sent: Sf010s020t002e0E
+2014-03-19 21:06:15,970 | INFO | (OperationProcessor.java:173) | Received: Sf10s20t2e0E
+2014-03-19 21:06:15,970 | INFO | (OperationProcessor.java:293) | IM: Sf10s20t2e0E; SM: Sf010s020t002e0E
+2014-03-19 21:06:15,970 | INFO | (OperationProcessor.java:220) | Sent: Sf020s030t002e0E
+2014-03-19 21:06:18,013 | INFO | (OperationProcessor.java:173) | Received: Sf20s30t2e0E
+2014-03-19 21:06:18,013 | INFO | (OperationProcessor.java:293) | IM: Sf20s30t2e0E; SM: Sf020s030t002e0E
+2014-03-19 21:06:18,013 | INFO | (OperationProcessor.java:220) | Sent: Sf030s040t002e0E
+2014-03-19 21:06:20,057 | INFO | (OperationProcessor.java:173) | Received: Sf30s40t2e0E
+2014-03-19 21:06:20,057 | INFO | (OperationProcessor.java:293) | IM: Sf30s40t2e0E; SM: Sf030s040t002e0E
+2014-03-19 21:06:20,057 | INFO | (OperationProcessor.java:220) | Sent: Sf040s050t002e0E
+2014-03-19 21:06:22,101 | INFO | (OperationProcessor.java:173) | Received: Sf40s50t2e0E
+2014-03-19 21:06:22,101 | INFO | (OperationProcessor.java:293) | IM: Sf40s50t2e0E; SM: Sf040s050t002e0E
+2014-03-19 21:06:22,101 | INFO | (OperationProcessor.java:220) | Sent: Sf050s060t002e0E
+2014-03-19 21:06:24,144 | INFO | (OperationProcessor.java:173) | Received: Sf50s60t2e0E
+2014-03-19 21:06:24,144 | INFO | (OperationProcessor.java:293) | IM: Sf50s60t2e0E; SM: Sf050s060t002e0E
+2014-03-19 21:06:24,144 | INFO | (OperationProcessor.java:220) | Sent: Sf060s070t002e0E
+2014-03-19 21:06:26,188 | INFO | (OperationProcessor.java:173) | Received: Sf60s70t2e0E
+2014-03-19 21:06:26,188 | INFO | (OperationProcessor.java:293) | IM: Sf60s70t2e0E; SM: Sf060s070t002e0E
+2014-03-19 21:06:26,188 | INFO | (OperationProcessor.java:220) | Sent: Sf070s080t002e0E
+2014-03-19 21:06:28,231 | INFO | (OperationProcessor.java:173) | Received: Sf70s80t2e0E
+2014-03-19 21:06:28,231 | INFO | (OperationProcessor.java:293) | IM: Sf70s80t2e0E; SM: Sf070s080t002e0E
+2014-03-19 21:06:28,231 | INFO | (OperationProcessor.java:220) | Sent: Sf080s090t002e0E
+2014-03-19 21:06:30,275 | INFO | (OperationProcessor.java:173) | Received: Sf80s90t2e0E
+2014-03-19 21:06:30,275 | INFO | (OperationProcessor.java:293) | IM: Sf80s90t2e0E; SM: Sf080s090t002e0E
+2014-03-19 21:06:30,275 | INFO | (OperationProcessor.java:220) | Sent: Sf090s100t002e0E
+2014-03-19 21:06:32,319 | INFO | (OperationProcessor.java:173) | Received: Sf90s100t2e0E
+2014-03-19 21:06:32,319 | INFO | (OperationProcessor.java:293) | IM: Sf90s100t2e0E; SM: Sf090s100t002e0E

@@ -1,0 +1,388 @@
+2014-03-23 17:53:25,353 | INFO | (OperationProcessor.java:83) | Found port: COM1
+2014-03-23 17:53:25,359 | INFO | (OperationProcessor.java:87) | COM1 is a serial port. Added.
+2014-03-23 17:53:25,359 | INFO | (OperationProcessor.java:83) | Found port: COM7
+2014-03-23 17:53:25,360 | INFO | (OperationProcessor.java:87) | COM7 is a serial port. Added.
+2014-03-23 17:53:25,360 | INFO | (OperationProcessor.java:83) | Found port: LPT1
+2014-03-23 17:53:31,272 | TRACE | (MainGUI.java:276) | [C]: mntmConnect
+2014-03-23 17:53:31,483 | INFO | (OperationProcessor.java:83) | Found port: COM1
+2014-03-23 17:53:31,483 | INFO | (OperationProcessor.java:87) | COM1 is a serial port. Added.
+2014-03-23 17:53:31,484 | INFO | (OperationProcessor.java:83) | Found port: COM7
+2014-03-23 17:53:31,485 | INFO | (OperationProcessor.java:87) | COM7 is a serial port. Added.
+2014-03-23 17:53:31,486 | INFO | (OperationProcessor.java:83) | Found port: LPT1
+2014-03-23 17:53:33,379 | INFO | (OperationProcessor.java:94) | Connecting to COM7
+2014-03-23 17:53:33,434 | INFO | (OperationProcessor.java:104) | Successfully connected to //./COM7
+2014-03-23 17:53:33,435 | INFO | (OperationProcessor.java:116) | Opening IOStream.
+2014-03-23 17:53:33,435 | INFO | (OperationProcessor.java:122) | IOStream successfully opened.
+2014-03-23 17:53:33,435 | INFO | (OperationProcessor.java:133) | Initializing listener.
+2014-03-23 17:53:36,039 | TRACE | (MainGUI.java:260) | [C]: mntmLoad
+2014-03-23 17:53:36,039 | DEBUG | (MainGUI.java:262) | There wasn't any route loaded before.
+2014-03-23 17:53:53,130 | INFO | (ActionProcessor.java:35) | Choosen route file: C:\Users\Wcg\Desktop\test.txt
+2014-03-23 17:53:59,032 | INFO | (OperationProcessor.java:220) | Sent: Sf010s020t002e0E
+2014-03-23 17:54:01,072 | INFO | (OperationProcessor.java:173) | Received: Sf10s20t2e0E
+2014-03-23 17:54:01,073 | INFO | (OperationProcessor.java:293) | IM: Sf10s20t2e0E; SM: Sf010s020t002e0E
+2014-03-23 17:54:01,078 | INFO | (OperationProcessor.java:220) | Sent: Sf020s030t002e0E
+2014-03-23 17:54:03,114 | INFO | (OperationProcessor.java:173) | Received: Sf20s30t2e0E
+2014-03-23 17:54:03,114 | INFO | (OperationProcessor.java:293) | IM: Sf20s30t2e0E; SM: Sf020s030t002e0E
+2014-03-23 17:54:03,118 | INFO | (OperationProcessor.java:220) | Sent: Sf030s040t002e0E
+2014-03-23 17:54:05,146 | INFO | (OperationProcessor.java:173) | Received: Sf30s40t2e0E
+2014-03-23 17:54:05,146 | INFO | (OperationProcessor.java:293) | IM: Sf30s40t2e0E; SM: Sf030s040t002e0E
+2014-03-23 17:54:05,150 | INFO | (OperationProcessor.java:220) | Sent: Sf040s050t002e0E
+2014-03-23 17:54:07,177 | INFO | (OperationProcessor.java:173) | Received: Sf40s50t2e0E
+2014-03-23 17:54:07,177 | INFO | (OperationProcessor.java:293) | IM: Sf40s50t2e0E; SM: Sf040s050t002e0E
+2014-03-23 17:54:07,181 | INFO | (OperationProcessor.java:220) | Sent: Sf050s060t002e0E
+2014-03-23 17:54:09,209 | INFO | (OperationProcessor.java:173) | Received: Sf50s60t2e0E
+2014-03-23 17:54:09,209 | INFO | (OperationProcessor.java:293) | IM: Sf50s60t2e0E; SM: Sf050s060t002e0E
+2014-03-23 17:54:09,213 | INFO | (OperationProcessor.java:220) | Sent: Sf060s070t002e0E
+2014-03-23 17:54:11,241 | INFO | (OperationProcessor.java:173) | Received: Sf60s70t2e0E
+2014-03-23 17:54:11,241 | INFO | (OperationProcessor.java:293) | IM: Sf60s70t2e0E; SM: Sf060s070t002e0E
+2014-03-23 17:54:11,246 | INFO | (OperationProcessor.java:220) | Sent: Sf070s080t002e0E
+2014-03-23 17:54:13,272 | INFO | (OperationProcessor.java:173) | Received: Sf70s80t2e0E
+2014-03-23 17:54:13,272 | INFO | (OperationProcessor.java:293) | IM: Sf70s80t2e0E; SM: Sf070s080t002e0E
+2014-03-23 17:54:13,277 | INFO | (OperationProcessor.java:220) | Sent: Sf080s090t002e0E
+2014-03-23 17:54:15,304 | INFO | (OperationProcessor.java:173) | Received: Sf80s90t2e0E
+2014-03-23 17:54:15,304 | INFO | (OperationProcessor.java:293) | IM: Sf80s90t2e0E; SM: Sf080s090t002e0E
+2014-03-23 17:54:15,309 | INFO | (OperationProcessor.java:220) | Sent: Sf090s100t002e0E
+2014-03-23 17:54:17,336 | INFO | (OperationProcessor.java:173) | Received: Sf90s100t2e0E
+2014-03-23 17:54:17,337 | INFO | (OperationProcessor.java:293) | IM: Sf90s100t2e0E; SM: Sf090s100t002e0E
+2014-03-23 17:54:25,213 | INFO | (OperationProcessor.java:220) | Sent: Sf010s020t002e0E
+2014-03-23 17:54:27,254 | INFO | (OperationProcessor.java:173) | Received: Sf10s20t2e0E
+2014-03-23 17:54:27,254 | INFO | (OperationProcessor.java:293) | IM: Sf10s20t2e0E; SM: Sf010s020t002e0E
+2014-03-23 17:54:27,260 | INFO | (OperationProcessor.java:220) | Sent: Sf020s030t002e0E
+2014-03-23 17:54:29,284 | INFO | (OperationProcessor.java:173) | Received: Sf20s30t2e0E
+2014-03-23 17:54:29,286 | INFO | (OperationProcessor.java:293) | IM: Sf20s30t2e0E; SM: Sf020s030t002e0E
+2014-03-23 17:54:29,291 | INFO | (OperationProcessor.java:220) | Sent: Sf030s040t002e0E
+2014-03-23 17:54:31,337 | INFO | (OperationProcessor.java:173) | Received: Sf30s40t2e0E
+2014-03-23 17:54:31,337 | INFO | (OperationProcessor.java:293) | IM: Sf30s40t2e0E; SM: Sf030s040t002e0E
+2014-03-23 17:54:31,342 | INFO | (OperationProcessor.java:220) | Sent: Sf040s050t002e0E
+2014-03-23 17:54:33,381 | INFO | (OperationProcessor.java:173) | Received: Sf40s50t2e0E
+2014-03-23 17:54:33,382 | INFO | (OperationProcessor.java:293) | IM: Sf40s50t2e0E; SM: Sf040s050t002e0E
+2014-03-23 17:54:33,386 | INFO | (OperationProcessor.java:220) | Sent: Sf050s060t002e0E
+2014-03-23 17:54:35,412 | INFO | (OperationProcessor.java:173) | Received: Sf50s60t2e0E
+2014-03-23 17:54:35,412 | INFO | (OperationProcessor.java:293) | IM: Sf50s60t2e0E; SM: Sf050s060t002e0E
+2014-03-23 17:54:35,417 | INFO | (OperationProcessor.java:220) | Sent: Sf060s070t002e0E
+2014-03-23 17:54:37,444 | INFO | (OperationProcessor.java:173) | Received: Sf60s70t2e0E
+2014-03-23 17:54:37,444 | INFO | (OperationProcessor.java:293) | IM: Sf60s70t2e0E; SM: Sf060s070t002e0E
+2014-03-23 17:54:37,449 | INFO | (OperationProcessor.java:220) | Sent: Sf070s080t002e0E
+2014-03-23 17:54:39,476 | INFO | (OperationProcessor.java:173) | Received: Sf70s80t2e0E
+2014-03-23 17:54:39,476 | INFO | (OperationProcessor.java:293) | IM: Sf70s80t2e0E; SM: Sf070s080t002e0E
+2014-03-23 17:54:39,481 | INFO | (OperationProcessor.java:220) | Sent: Sf080s090t002e0E
+2014-03-23 17:54:41,507 | INFO | (OperationProcessor.java:173) | Received: Sf80s90t2e0E
+2014-03-23 17:54:41,507 | INFO | (OperationProcessor.java:293) | IM: Sf80s90t2e0E; SM: Sf080s090t002e0E
+2014-03-23 17:54:41,512 | INFO | (OperationProcessor.java:220) | Sent: Sf090s100t002e0E
+2014-03-23 17:54:43,539 | INFO | (OperationProcessor.java:173) | Received: Sf90s100t2e0E
+2014-03-23 17:54:43,539 | INFO | (OperationProcessor.java:293) | IM: Sf90s100t2e0E; SM: Sf090s100t002e0E
+2014-03-23 17:54:50,253 | INFO | (OperationProcessor.java:220) | Sent: Sf010s020t002e0E
+2014-03-23 17:54:52,289 | INFO | (OperationProcessor.java:173) | Received: Sf10s20t2e0E
+2014-03-23 17:54:52,289 | INFO | (OperationProcessor.java:293) | IM: Sf10s20t2e0E; SM: Sf010s020t002e0E
+2014-03-23 17:54:52,295 | INFO | (OperationProcessor.java:220) | Sent: Sf020s030t002e0E
+2014-03-23 17:54:54,321 | INFO | (OperationProcessor.java:173) | Received: Sf20s30t2e0E
+2014-03-23 17:54:54,321 | INFO | (OperationProcessor.java:293) | IM: Sf20s30t2e0E; SM: Sf020s030t002e0E
+2014-03-23 17:54:54,326 | INFO | (OperationProcessor.java:220) | Sent: Sf030s040t002e0E
+2014-03-23 17:54:56,353 | INFO | (OperationProcessor.java:173) | Received: Sf30s40t2e0E
+2014-03-23 17:54:56,353 | INFO | (OperationProcessor.java:293) | IM: Sf30s40t2e0E; SM: Sf030s040t002e0E
+2014-03-23 17:54:56,358 | INFO | (OperationProcessor.java:220) | Sent: Sf040s050t002e0E
+2014-03-23 17:54:58,384 | INFO | (OperationProcessor.java:173) | Received: Sf40s50t2e0E
+2014-03-23 17:54:58,384 | INFO | (OperationProcessor.java:293) | IM: Sf40s50t2e0E; SM: Sf040s050t002e0E
+2014-03-23 17:54:58,389 | INFO | (OperationProcessor.java:220) | Sent: Sf050s060t002e0E
+2014-03-23 17:55:00,416 | INFO | (OperationProcessor.java:173) | Received: Sf50s60t2e0E
+2014-03-23 17:55:00,418 | INFO | (OperationProcessor.java:293) | IM: Sf50s60t2e0E; SM: Sf050s060t002e0E
+2014-03-23 17:55:00,423 | INFO | (OperationProcessor.java:220) | Sent: Sf060s070t002e0E
+2014-03-23 17:55:02,463 | INFO | (OperationProcessor.java:173) | Received: Sf60s70t2e0E
+2014-03-23 17:55:02,464 | INFO | (OperationProcessor.java:293) | IM: Sf60s70t2e0E; SM: Sf060s070t002e0E
+2014-03-23 17:55:02,469 | INFO | (OperationProcessor.java:220) | Sent: Sf070s080t002e0E
+2014-03-23 17:55:04,495 | INFO | (OperationProcessor.java:173) | Received: Sf70s80t2e0E
+2014-03-23 17:55:04,496 | INFO | (OperationProcessor.java:293) | IM: Sf70s80t2e0E; SM: Sf070s080t002e0E
+2014-03-23 17:55:04,504 | INFO | (OperationProcessor.java:220) | Sent: Sf080s090t002e0E
+2014-03-23 17:55:06,547 | INFO | (OperationProcessor.java:173) | Received: Sf80s90t2e0E
+2014-03-23 17:55:06,547 | INFO | (OperationProcessor.java:293) | IM: Sf80s90t2e0E; SM: Sf080s090t002e0E
+2014-03-23 17:55:06,555 | INFO | (OperationProcessor.java:220) | Sent: Sf090s100t002e0E
+2014-03-23 17:55:08,590 | INFO | (OperationProcessor.java:173) | Received: Sf90s100t2e0E
+2014-03-23 17:55:08,590 | INFO | (OperationProcessor.java:293) | IM: Sf90s100t2e0E; SM: Sf090s100t002e0E
+2014-03-23 17:56:14,702 | INFO | (OperationProcessor.java:220) | Sent: Sf010s020t002e0E
+2014-03-23 17:56:16,738 | INFO | (OperationProcessor.java:173) | Received: Sf10s20t2e0E
+2014-03-23 17:56:16,738 | INFO | (OperationProcessor.java:293) | IM: Sf10s20t2e0E; SM: Sf010s020t002e0E
+2014-03-23 17:56:16,744 | INFO | (OperationProcessor.java:220) | Sent: Sf020s030t002e0E
+2014-03-23 17:56:18,785 | INFO | (OperationProcessor.java:173) | Received: Sf20s30t2e0E
+2014-03-23 17:56:18,785 | INFO | (OperationProcessor.java:293) | IM: Sf20s30t2e0E; SM: Sf020s030t002e0E
+2014-03-23 17:56:18,790 | INFO | (OperationProcessor.java:220) | Sent: Sf030s040t002e0E
+2014-03-23 17:56:20,817 | INFO | (OperationProcessor.java:173) | Received: Sf30s40t2e0E
+2014-03-23 17:56:20,817 | INFO | (OperationProcessor.java:293) | IM: Sf30s40t2e0E; SM: Sf030s040t002e0E
+2014-03-23 17:56:20,823 | INFO | (OperationProcessor.java:220) | Sent: Sf040s050t002e0E
+2014-03-23 17:56:22,865 | INFO | (OperationProcessor.java:173) | Received: Sf40s50t2e0E
+2014-03-23 17:56:22,866 | INFO | (OperationProcessor.java:293) | IM: Sf40s50t2e0E; SM: Sf040s050t002e0E
+2014-03-23 17:56:22,870 | INFO | (OperationProcessor.java:220) | Sent: Sf050s060t002e0E
+2014-03-23 17:56:24,912 | INFO | (OperationProcessor.java:173) | Received: Sf50s60t2e0E
+2014-03-23 17:56:24,912 | INFO | (OperationProcessor.java:293) | IM: Sf50s60t2e0E; SM: Sf050s060t002e0E
+2014-03-23 17:56:24,917 | INFO | (OperationProcessor.java:220) | Sent: Sf060s070t002e0E
+2014-03-23 17:56:26,944 | INFO | (OperationProcessor.java:173) | Received: Sf60s70t2e0E
+2014-03-23 17:56:26,944 | INFO | (OperationProcessor.java:293) | IM: Sf60s70t2e0E; SM: Sf060s070t002e0E
+2014-03-23 17:56:26,949 | INFO | (OperationProcessor.java:220) | Sent: Sf070s080t002e0E
+2014-03-23 17:56:28,976 | INFO | (OperationProcessor.java:173) | Received: Sf70s80t2e0E
+2014-03-23 17:56:28,976 | INFO | (OperationProcessor.java:293) | IM: Sf70s80t2e0E; SM: Sf070s080t002e0E
+2014-03-23 17:56:28,983 | INFO | (OperationProcessor.java:220) | Sent: Sf080s090t002e0E
+2014-03-23 17:56:31,023 | INFO | (OperationProcessor.java:173) | Received: Sf80s90t2e0E
+2014-03-23 17:56:31,023 | INFO | (OperationProcessor.java:293) | IM: Sf80s90t2e0E; SM: Sf080s090t002e0E
+2014-03-23 17:56:31,028 | INFO | (OperationProcessor.java:220) | Sent: Sf090s100t002e0E
+2014-03-23 17:56:33,055 | INFO | (OperationProcessor.java:173) | Received: Sf90s100t2e0E
+2014-03-23 17:56:33,055 | INFO | (OperationProcessor.java:293) | IM: Sf90s100t2e0E; SM: Sf090s100t002e0E
+2014-03-23 17:56:42,837 | INFO | (OperationProcessor.java:220) | Sent: Sf010s020t002e0E
+2014-03-23 17:56:44,877 | INFO | (OperationProcessor.java:173) | Received: Sf10s20t2e0E
+2014-03-23 17:56:44,877 | INFO | (OperationProcessor.java:293) | IM: Sf10s20t2e0E; SM: Sf010s020t002e0E
+2014-03-23 17:56:44,883 | INFO | (OperationProcessor.java:220) | Sent: Sf020s030t002e0E
+2014-03-23 17:56:46,924 | INFO | (OperationProcessor.java:173) | Received: Sf20s30t2e0E
+2014-03-23 17:56:46,924 | INFO | (OperationProcessor.java:293) | IM: Sf20s30t2e0E; SM: Sf020s030t002e0E
+2014-03-23 17:56:46,929 | INFO | (OperationProcessor.java:220) | Sent: Sf030s040t002e0E
+2014-03-23 17:56:48,972 | INFO | (OperationProcessor.java:173) | Received: Sf30s40t2e0E
+2014-03-23 17:56:48,972 | INFO | (OperationProcessor.java:293) | IM: Sf30s40t2e0E; SM: Sf030s040t002e0E
+2014-03-23 17:56:48,977 | INFO | (OperationProcessor.java:220) | Sent: Sf040s050t002e0E
+2014-03-23 17:56:51,019 | INFO | (OperationProcessor.java:173) | Received: Sf40s50t2e0E
+2014-03-23 17:56:51,019 | INFO | (OperationProcessor.java:293) | IM: Sf40s50t2e0E; SM: Sf040s050t002e0E
+2014-03-23 17:56:51,024 | INFO | (OperationProcessor.java:220) | Sent: Sf050s060t002e0E
+2014-03-23 17:56:53,051 | INFO | (OperationProcessor.java:173) | Received: Sf50s60t2e0E
+2014-03-23 17:56:53,051 | INFO | (OperationProcessor.java:293) | IM: Sf50s60t2e0E; SM: Sf050s060t002e0E
+2014-03-23 17:56:53,056 | INFO | (OperationProcessor.java:220) | Sent: Sf060s070t002e0E
+2014-03-23 17:56:55,083 | INFO | (OperationProcessor.java:173) | Received: Sf60s70t2e0E
+2014-03-23 17:56:55,083 | INFO | (OperationProcessor.java:293) | IM: Sf60s70t2e0E; SM: Sf060s070t002e0E
+2014-03-23 17:56:55,088 | INFO | (OperationProcessor.java:220) | Sent: Sf070s080t002e0E
+2014-03-23 17:56:57,114 | INFO | (OperationProcessor.java:173) | Received: Sf70s80t2e0E
+2014-03-23 17:56:57,114 | INFO | (OperationProcessor.java:293) | IM: Sf70s80t2e0E; SM: Sf070s080t002e0E
+2014-03-23 17:56:57,119 | INFO | (OperationProcessor.java:220) | Sent: Sf080s090t002e0E
+2014-03-23 17:56:59,146 | INFO | (OperationProcessor.java:173) | Received: Sf80s90t2e0E
+2014-03-23 17:56:59,146 | INFO | (OperationProcessor.java:293) | IM: Sf80s90t2e0E; SM: Sf080s090t002e0E
+2014-03-23 17:56:59,151 | INFO | (OperationProcessor.java:220) | Sent: Sf090s100t002e0E
+2014-03-23 17:57:01,178 | INFO | (OperationProcessor.java:173) | Received: Sf90s100t2e0E
+2014-03-23 17:57:01,178 | INFO | (OperationProcessor.java:293) | IM: Sf90s100t2e0E; SM: Sf090s100t002e0E
+2014-03-23 17:57:05,861 | INFO | (OperationProcessor.java:220) | Sent: Sf010s020t002e0E
+2014-03-23 17:57:07,896 | INFO | (OperationProcessor.java:173) | Received: Sf10s20t2e0E
+2014-03-23 17:57:07,896 | INFO | (OperationProcessor.java:293) | IM: Sf10s20t2e0E; SM: Sf010s020t002e0E
+2014-03-23 17:57:07,901 | INFO | (OperationProcessor.java:220) | Sent: Sf020s030t002e0E
+2014-03-23 17:57:09,928 | INFO | (OperationProcessor.java:173) | Received: Sf20s30t2e0E
+2014-03-23 17:57:09,928 | INFO | (OperationProcessor.java:293) | IM: Sf20s30t2e0E; SM: Sf020s030t002e0E
+2014-03-23 17:57:09,933 | INFO | (OperationProcessor.java:220) | Sent: Sf030s040t002e0E
+2014-03-23 17:57:11,960 | INFO | (OperationProcessor.java:173) | Received: Sf30s40t2e0E
+2014-03-23 17:57:11,960 | INFO | (OperationProcessor.java:293) | IM: Sf30s40t2e0E; SM: Sf030s040t002e0E
+2014-03-23 17:57:11,965 | INFO | (OperationProcessor.java:220) | Sent: Sf040s050t002e0E
+2014-03-23 17:57:13,991 | INFO | (OperationProcessor.java:173) | Received: Sf40s50t2e0E
+2014-03-23 17:57:13,991 | INFO | (OperationProcessor.java:293) | IM: Sf40s50t2e0E; SM: Sf040s050t002e0E
+2014-03-23 17:57:13,996 | INFO | (OperationProcessor.java:220) | Sent: Sf050s060t002e0E
+2014-03-23 17:57:16,023 | INFO | (OperationProcessor.java:173) | Received: Sf50s60t2e0E
+2014-03-23 17:57:16,023 | INFO | (OperationProcessor.java:293) | IM: Sf50s60t2e0E; SM: Sf050s060t002e0E
+2014-03-23 17:57:16,028 | INFO | (OperationProcessor.java:220) | Sent: Sf060s070t002e0E
+2014-03-23 17:57:18,055 | INFO | (OperationProcessor.java:173) | Received: Sf60s70t2e0E
+2014-03-23 17:57:18,055 | INFO | (OperationProcessor.java:293) | IM: Sf60s70t2e0E; SM: Sf060s070t002e0E
+2014-03-23 17:57:18,060 | INFO | (OperationProcessor.java:220) | Sent: Sf070s080t002e0E
+2014-03-23 17:57:20,086 | INFO | (OperationProcessor.java:173) | Received: Sf70s80t2e0E
+2014-03-23 17:57:20,086 | INFO | (OperationProcessor.java:293) | IM: Sf70s80t2e0E; SM: Sf070s080t002e0E
+2014-03-23 17:57:20,091 | INFO | (OperationProcessor.java:220) | Sent: Sf080s090t002e0E
+2014-03-23 17:57:22,118 | INFO | (OperationProcessor.java:173) | Received: Sf80s90t2e0E
+2014-03-23 17:57:22,118 | INFO | (OperationProcessor.java:293) | IM: Sf80s90t2e0E; SM: Sf080s090t002e0E
+2014-03-23 17:57:22,123 | INFO | (OperationProcessor.java:220) | Sent: Sf090s100t002e0E
+2014-03-23 17:57:24,149 | INFO | (OperationProcessor.java:173) | Received: Sf90s100t2e0E
+2014-03-23 17:57:24,149 | INFO | (OperationProcessor.java:293) | IM: Sf90s100t2e0E; SM: Sf090s100t002e0E
+2014-03-23 17:57:37,925 | INFO | (OperationProcessor.java:220) | Sent: Sf010s020t002e0E
+2014-03-23 17:57:39,955 | INFO | (OperationProcessor.java:173) | Received: Sf10s20t2e0E
+2014-03-23 17:57:39,955 | INFO | (OperationProcessor.java:293) | IM: Sf10s20t2e0E; SM: Sf010s020t002e0E
+2014-03-23 17:57:39,960 | INFO | (OperationProcessor.java:220) | Sent: Sf020s030t002e0E
+2014-03-23 17:57:41,986 | INFO | (OperationProcessor.java:173) | Received: Sf20s30t2e0E
+2014-03-23 17:57:41,986 | INFO | (OperationProcessor.java:293) | IM: Sf20s30t2e0E; SM: Sf020s030t002e0E
+2014-03-23 17:57:41,991 | INFO | (OperationProcessor.java:220) | Sent: Sf030s040t002e0E
+2014-03-23 17:57:44,018 | INFO | (OperationProcessor.java:173) | Received: Sf30s40t2e0E
+2014-03-23 17:57:44,018 | INFO | (OperationProcessor.java:293) | IM: Sf30s40t2e0E; SM: Sf030s040t002e0E
+2014-03-23 17:57:44,023 | INFO | (OperationProcessor.java:220) | Sent: Sf040s050t002e0E
+2014-03-23 17:57:46,049 | INFO | (OperationProcessor.java:173) | Received: Sf40s50t2e0E
+2014-03-23 17:57:46,049 | INFO | (OperationProcessor.java:293) | IM: Sf40s50t2e0E; SM: Sf040s050t002e0E
+2014-03-23 17:57:46,056 | INFO | (OperationProcessor.java:220) | Sent: Sf050s060t002e0E
+2014-03-23 17:57:48,101 | INFO | (OperationProcessor.java:173) | Received: Sf50s60t2e0E
+2014-03-23 17:57:48,101 | INFO | (OperationProcessor.java:293) | IM: Sf50s60t2e0E; SM: Sf050s060t002e0E
+2014-03-23 17:57:48,106 | INFO | (OperationProcessor.java:220) | Sent: Sf060s070t002e0E
+2014-03-23 17:57:50,145 | INFO | (OperationProcessor.java:173) | Received: Sf60s70t2e0E
+2014-03-23 17:57:50,145 | INFO | (OperationProcessor.java:293) | IM: Sf60s70t2e0E; SM: Sf060s070t002e0E
+2014-03-23 17:57:50,150 | INFO | (OperationProcessor.java:220) | Sent: Sf070s080t002e0E
+2014-03-23 17:57:52,192 | INFO | (OperationProcessor.java:173) | Received: Sf70s80t2e0E
+2014-03-23 17:57:52,192 | INFO | (OperationProcessor.java:293) | IM: Sf70s80t2e0E; SM: Sf070s080t002e0E
+2014-03-23 17:57:52,197 | INFO | (OperationProcessor.java:220) | Sent: Sf080s090t002e0E
+2014-03-23 17:57:54,224 | INFO | (OperationProcessor.java:173) | Received: Sf80s90t2e0E
+2014-03-23 17:57:54,224 | INFO | (OperationProcessor.java:293) | IM: Sf80s90t2e0E; SM: Sf080s090t002e0E
+2014-03-23 17:57:54,229 | INFO | (OperationProcessor.java:220) | Sent: Sf090s100t002e0E
+2014-03-23 17:57:56,272 | INFO | (OperationProcessor.java:173) | Received: Sf90s100t2e0E
+2014-03-23 17:57:56,272 | INFO | (OperationProcessor.java:293) | IM: Sf90s100t2e0E; SM: Sf090s100t002e0E
+2014-03-23 17:57:59,085 | INFO | (OperationProcessor.java:220) | Sent: Sf010s020t002e0E
+2014-03-23 17:58:01,119 | INFO | (OperationProcessor.java:173) | Received: Sf10s20t2e0E
+2014-03-23 17:58:01,119 | INFO | (OperationProcessor.java:293) | IM: Sf10s20t2e0E; SM: Sf010s020t002e0E
+2014-03-23 17:58:01,124 | INFO | (OperationProcessor.java:220) | Sent: Sf020s030t002e0E
+2014-03-23 17:58:03,150 | INFO | (OperationProcessor.java:173) | Received: Sf20s30t2e0E
+2014-03-23 17:58:03,150 | INFO | (OperationProcessor.java:293) | IM: Sf20s30t2e0E; SM: Sf020s030t002e0E
+2014-03-23 17:58:03,155 | INFO | (OperationProcessor.java:220) | Sent: Sf030s040t002e0E
+2014-03-23 17:58:05,182 | INFO | (OperationProcessor.java:173) | Received: Sf30s40t2e0E
+2014-03-23 17:58:05,182 | INFO | (OperationProcessor.java:293) | IM: Sf30s40t2e0E; SM: Sf030s040t002e0E
+2014-03-23 17:58:05,187 | INFO | (OperationProcessor.java:220) | Sent: Sf040s050t002e0E
+2014-03-23 17:58:07,214 | INFO | (OperationProcessor.java:173) | Received: Sf40s50t2e0E
+2014-03-23 17:58:07,214 | INFO | (OperationProcessor.java:293) | IM: Sf40s50t2e0E; SM: Sf040s050t002e0E
+2014-03-23 17:58:07,221 | INFO | (OperationProcessor.java:220) | Sent: Sf050s060t002e0E
+2014-03-23 17:58:09,261 | INFO | (OperationProcessor.java:173) | Received: Sf50s60t2e0E
+2014-03-23 17:58:09,261 | INFO | (OperationProcessor.java:293) | IM: Sf50s60t2e0E; SM: Sf050s060t002e0E
+2014-03-23 17:58:09,266 | INFO | (OperationProcessor.java:220) | Sent: Sf060s070t002e0E
+2014-03-23 17:58:11,293 | INFO | (OperationProcessor.java:173) | Received: Sf60s70t2e0E
+2014-03-23 17:58:11,293 | INFO | (OperationProcessor.java:293) | IM: Sf60s70t2e0E; SM: Sf060s070t002e0E
+2014-03-23 17:58:11,299 | INFO | (OperationProcessor.java:220) | Sent: Sf070s080t002e0E
+2014-03-23 17:58:13,340 | INFO | (OperationProcessor.java:173) | Received: Sf70s80t2e0E
+2014-03-23 17:58:13,340 | INFO | (OperationProcessor.java:293) | IM: Sf70s80t2e0E; SM: Sf070s080t002e0E
+2014-03-23 17:58:13,345 | INFO | (OperationProcessor.java:220) | Sent: Sf080s090t002e0E
+2014-03-23 17:58:15,372 | INFO | (OperationProcessor.java:173) | Received: Sf80s90t2e0E
+2014-03-23 17:58:15,372 | INFO | (OperationProcessor.java:293) | IM: Sf80s90t2e0E; SM: Sf080s090t002e0E
+2014-03-23 17:58:15,377 | INFO | (OperationProcessor.java:220) | Sent: Sf090s100t002e0E
+2014-03-23 17:58:17,420 | INFO | (OperationProcessor.java:173) | Received: Sf90s100t2e0E
+2014-03-23 17:58:17,420 | INFO | (OperationProcessor.java:293) | IM: Sf90s100t2e0E; SM: Sf090s100t002e0E
+2014-03-23 17:58:25,829 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:25,872 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:25,916 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:25,960 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:26,004 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:26,048 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:26,092 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:26,136 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:26,180 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:26,225 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:26,268 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:26,312 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:26,356 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:26,400 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:26,444 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:26,488 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:26,533 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:26,576 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:26,620 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:26,665 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:26,708 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:26,752 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:26,795 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:26,839 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:26,883 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:26,927 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:26,971 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:27,016 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:27,059 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:27,103 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:27,147 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:27,191 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:27,235 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:27,280 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:27,323 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:27,367 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:27,411 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:27,455 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:27,499 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:27,544 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:27,587 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:27,632 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:27,675 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:27,719 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:27,763 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:27,807 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:27,851 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:27,895 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:27,939 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:27,983 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:28,028 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:28,071 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:28,115 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:28,159 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:28,203 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:28,247 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:28,291 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:28,335 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:28,379 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:28,423 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:28,467 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:28,511 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:28,555 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:28,599 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:28,643 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:28,687 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:28,731 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:28,775 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:28,819 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:28,863 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:28,907 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:28,951 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:28,996 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:29,039 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:29,084 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:29,128 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:29,172 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:29,217 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:29,261 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:29,306 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:29,349 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:29,393 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:29,437 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:29,481 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:29,525 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:29,569 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:29,613 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:29,657 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:29,701 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:29,745 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:29,789 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:29,832 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:29,880 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:29,924 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:29,968 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:30,012 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:30,056 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:30,101 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:30,144 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:30,188 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:30,232 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:30,276 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:30,320 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:30,364 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:30,408 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:30,452 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:30,496 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:30,540 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:30,584 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:30,629 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:30,673 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:30,717 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:30,761 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:30,805 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:30,850 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:30,893 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:30,937 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:30,981 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:31,025 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:31,069 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:31,113 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:31,157 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:31,201 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:31,245 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:31,289 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:31,334 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:31,377 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:31,422 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:31,465 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:31,510 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:31,554 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:31,600 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:31,643 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:31,687 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:31,734 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:31,778 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:31,822 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:31,866 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:31,911 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:31,955 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:31,999 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:32,043 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:32,087 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:32,131 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:32,176 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:32,220 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:32,264 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:32,307 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:32,351 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:32,395 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:32,439 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:32,486 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
+2014-03-23 17:58:32,530 | ERROR | (OperationProcessor.java:192) | java.io.IOException: No error in nativeavailable
